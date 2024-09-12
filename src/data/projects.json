@@ -1,26 +1,17 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Notify",
+    "description": "Website with functionalities like Add/Edit Notes, Pinning notes, and searching through notes.",
+    "skills": ["React", "Express", "Node","MongoDB"]
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "NotePad",
+    "description": "This is a notepad clone with added functionalities of selecting fonts and different colours.",
+    "skills": ["Java", "AWT", "Swing"]
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Lesion Lens",
+    "description": "This is an app which takes lesion photos as input & detects lesion based on the different factors.",
+    "skills": ["Java","ML","Android Studios"]
   }
 ]

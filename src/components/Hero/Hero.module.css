@@ -51,8 +51,13 @@
 }
 
 .heroImg {
-  width: 50%;
+  width:50%;
   z-index: 1;
+
+  width: 800px; /* Set a width for the image */
+  height: 500px; /* Set a height for the image */
+  border-radius: 50%; /* Make the image circular */
+  object-fit: cover;  
 
   animation-name: floating;
   animation-duration: 3s;
